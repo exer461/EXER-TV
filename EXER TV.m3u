@@ -97,6 +97,10 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.
 
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
+#EXTINF:-1,SPACE
+
+https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+
 #EXTINF:-1,DISCOVERY KIDS
 
 https://edge4-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
@@ -216,3 +220,15 @@ https://edge4-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 #EXTINF:-1,PLAYBOY
 
 https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
+
+#EXTINF:-1,PLAYBOY2
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/Playboy/SA_SAGEMCOM/Playboy.m3u8
+
+#EXTINF:-1,VENUS
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/Venus/SA_SAGEMCOM/Venus.m3u8
+
+#EXTINF:-1,SEXTREME
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/Sextreme/SA_SAGEMCOM/Sextreme.m3u8
