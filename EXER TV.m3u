@@ -41,13 +41,17 @@ https:\edge2-ccast-sl.cvattv.com.ar\live\c7eds\AEHD\SA_SAGEMCOM\AEHD-avc1_197200
 
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
+#EXTINF:-1,TBS
+
+https://edge3-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS-avc1_1480000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:-1,Trutv
+
+https://edge3.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
+
 #EXTINF:-1,HGTV
 
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
-
-#EXTINF:-1,SUN CH
-
-https://edge10-hr.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
 
 #EXTINF:-1,GARAGE TV
 
@@ -100,6 +104,10 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.
 #EXTINF:-1,SPACE
 
 https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+
+#EXTINF:-1,TCM
+
+https://edge-live14-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:-1,DISCOVERY KIDS
 
@@ -193,6 +201,10 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSpor
 
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
+#EXTINF:-1,TyCSport
+
+https://edge9-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
 #EXTINF:-1,CNN
 
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
@@ -209,19 +221,11 @@ https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,TLT
-
-http://web6.lorini.net/lateletuya/lateletuya/playlist.m3u8
-
 #EXTINF:-1,MTV
 
 https://edge4-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 
 #EXTINF:-1,PLAYBOY
-
-https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
-
-#EXTINF:-1,PLAYBOY2
 
 https://edge2-hr.cvattv.com.ar/live/c6eds/Playboy/SA_SAGEMCOM/Playboy.m3u8
 
