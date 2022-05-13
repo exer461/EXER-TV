@@ -109,10 +109,6 @@ https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m
 
 https://edge-live14-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
 
-#EXTINF:-1,LOS SIMPSONS
-
-https://vsd144.mycdn.me/hls/2391786261063.m3u8/sig/MrKjrQHGcqw/expires/1652370731565/srcIp/206.62.164.45/clientType/0/srcAg/CHROME_ANDROID/mid/5451139587655/video.m3u8?p
-
 #EXTINF:-1,DISCOVERY KIDS
 
 https://edge4-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
@@ -224,10 +220,6 @@ https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1,VENEVISION
 
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,CARACOL
-
-https://vsd105.mycdn.me/hls/2272912804423.m3u8/sig/5kqDGekrezs/expires/1652370826446/srcIp/206.62.164.45/clientType/0/srcAg/CHROME_ANDROID/mid/5348293549639/video.m3u8?p
 
 #EXTINF:-1,MTV
 
