@@ -59,7 +59,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
 #EXTINF:-1,ANIMAL PLANET
 
-https://edge4-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 
 #EXTINF:-1,FOX
 
@@ -123,7 +123,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/Disn
 
 #EXTINF:-1,CARTOON NETWORK
 
-C:\Users\Exer & Jenni\Desktop\CARTOON NETWORKhttps:\edge2-ccast-sl.cvattv.com.ar\live\c3eds\CartoonNetwork\SA_SAGEMCOM\CartoonNetwork.m3u8
+https:\edge2-ccast-sl.cvattv.com.ar\live\c3eds\CartoonNetwork\SA_SAGEMCOM\CartoonNetwork.m3u8
 
 #EXTINF:-1,CARTOONITO
 
@@ -140,6 +140,10 @@ https://edge-vod04-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 #EXTINF:-1,NICKELODEON
 
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+
+#EXTINF:-1,LOS SIMPSONS
+
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1,HBO
 
