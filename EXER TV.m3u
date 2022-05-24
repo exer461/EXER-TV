@@ -5,6 +5,10 @@
 
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 
+#EXTINF:-1,Gourmet
+
+https://edge2-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+
 #EXTINF:-1 ,TURBO
 
 https://edge4-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
@@ -12,6 +16,18 @@ https://edge4-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTu
 #EXTINF:-1,H&H
 
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
+#EXTINF:-1,Theater
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+
+#EXTINF:-1,Ciencia
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
+
+#EXTINF:-1,World
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
 
 #EXTINF:-1,NATGEO
 
@@ -41,17 +57,20 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD-avc1_19720
 
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
-#EXTINF:-1,TBS
-
-https://edge3-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS-avc1_1480000=10002-mp4a_144800_spa=20000.m3u8
+#EXTINF:-1,TbS
+https://edge2-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 
 #EXTINF:-1,Trutv
 
-https://edge3.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
+https://edge2-hr.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
 #EXTINF:-1,HGTV
 
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
+
+#EXTINF:-1,MASCHIC
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
 
 #EXTINF:-1,GARAGE TV
 
@@ -65,7 +84,11 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalP
 
 https://edge4-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
-#EXTINF:-1,WARNER
+#EXTINF:-1,FX
+
+https://edge2-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+
+#EXTINF:-1,WARNWR
 
 https://edge4-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 
@@ -101,9 +124,9 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.
 
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
-#EXTINF:-1,SPACE
+#EXTINF:-1,Space
 
-https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+https://edge2-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1,TCM
 
@@ -112,6 +135,14 @@ https://edge-live14-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM-avc1_1532000
 #EXTINF:-1,STUDIO
 
 https://edge2-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+
+#EXTINF:-1,AMC
+
+https://edge2-hr.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+
+#EXTINF:-1,Syfy
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
 
 #EXTINF:-1,DISCOVERY KIDS
 
@@ -147,7 +178,11 @@ https://edge-vod04-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelode
 
 #EXTINF:-1,BABY TV
 
-https://edge-live13-hr.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
+https://edge2-hr.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
+
+#EXTINF:-1,PAKAPAKA
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
 
 #EXTINF:-1,HBO
 
@@ -160,6 +195,10 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 #EXTINF:-1,HBO+
 
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
+#EXTINF:-1,HBO sgnature
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 
 #EXTINF:-1,HBO FAMILY
 
@@ -221,13 +260,33 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 
+#EXTINF:-1,Sony comedia
+
+https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1,SONY NOVELAS
 
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1,Comedy central
+
+https://edge2-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+
+#EXTINF:-1,Lifetime
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
+
 #EXTINF:-1,CANAL i
 
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+
+#EXTINF:-1,Telemundo
+
+https://edge2-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+
+#EXTINF:-1,Canal de las estrellas
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 
 #EXTINF:-1,VENEVISION
 
