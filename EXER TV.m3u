@@ -109,6 +109,10 @@ https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m
 
 https://edge-live14-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
 
+#EXTINF:-1,STUDIO
+
+https://edge2-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+
 #EXTINF:-1,DISCOVERY KIDS
 
 https://edge4-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
@@ -140,6 +144,10 @@ https://edge-vod04-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 #EXTINF:-1,NICKELODEON
 
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+
+#EXTINF:-1,BABY TV
+
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
 
 #EXTINF:-1,HBO
 
@@ -184,6 +192,10 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.
 #EXTINF:-1,ESPN 3
 
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
+#EXTINF:-1,ESPN 4
+
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
 #EXTINF:-1,FOX SPORT
 
