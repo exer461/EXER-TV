@@ -107,7 +107,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM
 
 #EXTINF:-1,CINEMAX
 
-https://edge2-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+https://edge-live15-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
 #EXTINF:-1,CINECANAL
 
@@ -195,7 +195,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 #EXTINF:-1,HBO+
 
-https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 
 #EXTINF:-1,HBO SIGNATURE
 
@@ -287,11 +287,15 @@ https://edge2-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.
 
 #EXTINF:-1,CANAL DE LAS ESTRELLAS
 
-https://edge2-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+https://edge2-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 
 #EXTINF:-1,VENEVISION
 
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,IVC
+
+https://vp01-ivciptv.delivery.fuugo.com/ngrp:vp01-IVC_IPTV-52ba3ca1_all/playlist.m3u8
 
 #EXTINF:-1,MTV
 
