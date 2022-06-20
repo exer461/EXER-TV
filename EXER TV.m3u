@@ -297,6 +297,18 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 
 https://vp01-ivciptv.delivery.fuugo.com/ngrp:vp01-IVC_IPTV-52ba3ca1_all/playlist.m3u8
 
+#EXTINF:-1,TLT
+
+https://vcp4.myplaytv.com/tlt-2/tlt-28052022/playlist.m3u8
+
+#EXTINF:-1,HTV
+
+https://edge2-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
+
+#EXTINF:-1,Show VEN
+
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+
 #EXTINF:-1,MTV
 
 https://edge4-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
@@ -312,3 +324,11 @@ https://edge2-sl.cvattv.com.ar/live/c6eds/Venus/SA_SAGEMCOM/Venus.m3u8
 #EXTINF:-1,SEXTREME
 
 https://edge2-sl.cvattv.com.ar/live/c6eds/Sextreme/SA_SAGEMCOM/Sextreme.m3u8
+
+#EXTINF:-1,Teens
+
+https://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1,Dream sex
+
+https://live.redtraffic.net/woman.m3u8
