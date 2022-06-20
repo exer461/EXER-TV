@@ -277,10 +277,6 @@ https://edge2-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentra
 
 https://edge2-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 
-#EXTINF:-1,CANAL i
-
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8
-
 #EXTINF:-1,TELEMUNDO
 
 https://edge2-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
@@ -300,6 +296,10 @@ https://vp01-ivciptv.delivery.fuugo.com/ngrp:vp01-IVC_IPTV-52ba3ca1_all/playlist
 #EXTINF:-1,TLT
 
 https://vcp4.myplaytv.com/tlt-2/tlt-28052022/playlist.m3u8
+
+#EXTINF:-1,CANAL i
+
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
 #EXTINF:-1,HTV
 
