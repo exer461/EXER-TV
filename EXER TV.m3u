@@ -281,6 +281,10 @@ https://edge2-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 
 https://edge2-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
+#EXTINF:-1,UNIVISION
+
+https://v-la.mybtv.net/live/178.m3u8
+
 #EXTINF:-1,CANAL DE LAS ESTRELLAS
 
 https://edge2-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
