@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1,WARNER
+
+https://edge3.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
+
+#EXTINF:-1,H&H
+
+https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
+
+#EXTINF:-1,TLC
+
+https://edge3.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
+
 #EXTINF:-1,CNN
 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8?__b__=650
