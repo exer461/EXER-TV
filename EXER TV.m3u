@@ -4,15 +4,7 @@
 
 https://cvi.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 
-#EXTINF:-1,H&H
-
-https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
-
 #EXTINF:-1,TLC
-
-https://edge3.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
-
-#EXTINF:-1,TLC2
 
 https://cvi.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 
@@ -67,10 +59,6 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channe
 https://cvi.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
 #EXTINF:-1,WARNER
-
-https://edge3.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
-
-#EXTINF:-1,WARNER2
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
 
