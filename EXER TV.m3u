@@ -1,51 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,GOURMET
-
-https://cvi.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
-
-#EXTINF:-1,TLC
-
-https://cvi.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
-
-#EXTINF:-1 ,TURBO
-
-https://cvi.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
-
-#EXTINF:-1,CIENCIA
-
-https://cvi.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
-
-#EXTINF:-1,HISTORY
-
-https://cvi.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
-
-#EXTINF:-1,HISTORY 2
-
-https://cvi.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
-
-#EXTINF:-1,ID
-
-#EXTINF:-1,A&E
-
-https://cvi.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
-
-#EXTINF:-1,DISCOVERY CH
-
-https://cvi.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
-
-#EXTINF:-1,TbS
-
-https://cvi.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
-
-#EXTINF:-1,TRU TV
-
-https://cvi.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
-
-#EXTINF:-1,MAS CHIC
-
-https://cvi.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
-
 #EXTINF:-1,ANIMAL PLANET
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
@@ -54,33 +8,13 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Pla
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
-#EXTINF:-1,FX
-
-https://cvi.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
-
 #EXTINF:-1,WARNER
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
 
-#EXTINF:-1,AXN
-
-https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
-
-#EXTINF:-1,SONY
-
-https://cvi.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
-
 #EXTINF:-1,UNIVERSAL
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
-
-#EXTINF:-1,UNIVERSAL2
-
-https://cvi.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
-
-#EXTINF:-1,CINEMAX
-
-https://cvi.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
 #EXTINF:-1,CINECANAL
 
@@ -94,69 +28,17 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
 
-#EXTINF:-1,PARAMAUT
-
-https://cvi.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
-
-#EXTINF:-1,SPACE
-
-https://cvi.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
-
-#EXTINF:-1,TCM
-
-https://cvi.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
-
-#EXTINF:-1,AMC
-
-https://cvi.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
-
-#EXTINF:-1,SYFY
-
-https://cvi.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
-
 #EXTINF:-1,DISCOVERY KIDS
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
-
-#EXTINF:-1,DISNEY JR
-
-https://cvi.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
-
-#EXTINF:-1,DISNEY CHANEL
-
-https://cvi.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
-
-#EXTINF:-1,CARTOON NETWORK
-
-https://cvi.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
 
 #EXTINF:-1,CARTOONITO
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u8
 
-#EXTINF:-1,NICK JR
-
-https://cvi.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
-
 #EXTINF:-1,NICKELODEON
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick.m3u8
-
-#EXTINF:-1,TOONCAST
-
-https://cvi.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
-
-#EXTINF:-1,HBO
-
-https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-
-#EXTINF:-1,HBO2
-
-https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-
-#EXTINF:-1,HBO+
-
-https://cvi.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
 
 #EXTINF:-1,HBO SIGNATURE
 
@@ -165,22 +47,6 @@ https://cvi.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
 #EXTINF:-1,HBO FAMILY
 
 https://cvi.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
-
-#EXTINF:-1,HBO EXTREME
-
-https://cvi.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
-
-#EXTINF:-1,HBO MUNDI
-
-https://cvi.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
-
-#EXTINF:-1,HBO POP
-
-https://cvi.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
-
-#EXTINF:-1,FOX SPORT 3
-
-https://cvi.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
 #EXTINF:-1,ESPN
 
@@ -194,10 +60,6 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 
-#EXTINF:-1,ESPN +
-
-https://cvi.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
-
 #EXTINF:-1,ESPN PRIMIUM
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
@@ -209,18 +71,6 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3
 #EXTINF:-1,SONY COMEDIA
 
 https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,COMEDY CENTRAL
-
-https://cvi.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
-
-#EXTINF:-1,LIFETIME
-
-https://cvi.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
-
-#EXTINF:-1,MTV
-
-https://cvi.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 
 #EXTINF:-1,CNN
 
@@ -234,10 +84,6 @@ https://v-la.mybtv.net/live/178.m3u8
 
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,IVC
-
-https://vp01-ivciptv.delivery.fuugo.com/ngrp:vp01-IVC_IPTV-52ba3ca1_all/playlist.m3u8
-
 #EXTINF:-1,TLT
 
 https://vcp4.myplaytv.com/tlt-2/tlt-28052022/playlist.m3u8
@@ -250,10 +96,3 @@ https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
-#EXTINF:-1,Teens
-
-https://cdn.adultiptv.net/russian.m3u8
-
-#EXTINF:-1,Dream sex
-
-https://live.redtraffic.net/woman.m3u8
