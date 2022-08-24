@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,Más chic
+#EXTINF:-1,MAS CHIK
 
 https://wisp.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
 
-#EXTINF:-1,Trutv
+#EXTINF:-1,TRUTV
 
 https://wisp.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 
@@ -12,15 +12,15 @@ https://wisp.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 
 https://wisp.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 
-#EXTINF:-1,Tooncast
+#EXTINF:-1,TOONCAST
 
 https://wisp.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 
-#EXTINF:-1,Disney Jr
+#EXTINF:-1,DISNEY JR
 
 https://wisp.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
 
-#EXTINF:-1,Disney
+#EXTINF:-1,DISNEY CHANEL
 
 https://wisp.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
 
@@ -28,63 +28,75 @@ https://wisp.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
 
 https://cesop.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 
-#EXTINF:-1,Warner
+#EXTINF:-1,WARNER TV
 
 https://gow.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
 
-#EXTINF:-1,Warner2
+#EXTINF:-1,WARNER 2
 
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
 
-#EXTINF:-1,Sony
+#EXTINF:-1,WARNER 3
+
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+
+#EXTINF:-1,SONY
 
 https://wisp.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
 
-#EXTINF:-1,Life time
+#EXTINF:-1,LIFETIME
 
 https://wisp.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
 
-#EXTINF:-1,Dkids
+#EXTINF:-1,DISCOVERY KIDS
 
 https://gow.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 
-#EXTINF:-1,Dkids2
+#EXTINF:-1,DISCOVERY KIDS 2
 
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1,DISCOVERY KIDS 3
+
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
+
+#EXTINF:-1,NICKELODEON
 
 https://gow.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick.m3u8
 
-#EXTINF:-1,Nick2
+#EXTINF:-1,NICKELODEON 2
 
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick.m3u8
 
-#EXTINF:-1,Cartoonito
+#EXTINF:-1,NICKELODEON 3
+
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick.m3u8
+
+#EXTINF:-1,CARTOONITO
 
 https://wisp.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
 
-#EXTINF:-1,Discovery
+#EXTINF:-1,DISCOVERY CHANEL
 
 https://wisp.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 
-#EXTINF:-1,Tic
+#EXTINF:-1,TLC
 
 https://wisp.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 
-#EXTINF:-1,Turbo
+#EXTINF:-1,TURBO
 
 https://wisp.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 
-#EXTINF:-1,Ciencia
+#EXTINF:-1,CIENCIA
 
 https://wisp.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
 
-#EXTINF:-1,Id
+#EXTINF:-1,ID
 
 https://gow.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
 
-#EXTINF:-1,Id2
+#EXTINF:-1,ID 2
 
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
 
@@ -92,7 +104,7 @@ https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_
 
 https://gow.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
 
-#EXTINF:-1,H&H
+#EXTINF:-1,H&H 2
 
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
 
@@ -100,40 +112,37 @@ https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health
 
 https://wisp.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 
-#EXTINF:-1,History
+#EXTINF:-1,HISTORY
 
 https://wisp.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 
-#EXTINF:-1,History2
+#EXTINF:-1,HISTORY 2
 
 https://wisp.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
 
-A&E
+#EXTINF:-1,A&E
+
 https://wisp.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
-
-#EXTINF:-1,Animal planet
-
-https://gow.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
-
-#EXTINF:-1,Animal planet2
-
-https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
-
-#EXTINF:-1,El gourmet
-
-https://wisp.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 
 #EXTINF:-1,ANIMAL PLANET
 
+https://gow.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
+#EXTINF:-1,ANIMAL PLANET 2
+
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
+#EXTINF:-1,ANIMAL PLANET 3
+
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
+#EXTINF:-1,EL GOURMET
+
+https://wisp.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 
 #EXTINF:-1,FOX
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
-
-#EXTINF:-1,WARNER
-
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
 
 #EXTINF:-1,UNIVERSAL
 
@@ -151,17 +160,9 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
 
-#EXTINF:-1,DISCOVERY KIDS
-
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
-
 #EXTINF:-1,CARTOONITO
 
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u8
-
-#EXTINF:-1,NICKELODEON
-
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick.m3u8
 
 #EXTINF:-1,HBO SIGNATURE
 
@@ -215,7 +216,7 @@ https://vcp4.myplaytv.com/tlt-2/tlt-28052022/playlist.m3u8
 
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
-#EXTINF:-1,Show VEN
+#EXTINF:-1,SHOW VEN
 
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
