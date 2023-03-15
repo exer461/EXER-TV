@@ -12,6 +12,10 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8?__b__=6
 
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,VENEVISION
+
+https://www.dailymotion.com/cdn/live/video/x8ixzmf.m3u8?sec=CNRCodkuwxllYYTLVGdNjbZHTUWm9r86pwhU-xOu9QkFOXhASjGf_6EBMfZOCY5yBWY1dHYJ0-d3wXdLLbMQ3A&dmTs=408778&dmV1st=9f3e74a2-7e55-46fc-9016-1aa4513c37b7
+
 #EXTINF:-1,CANAL i
 
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
