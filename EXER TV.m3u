@@ -1,24 +1,6 @@
-#EXTM3U
-
-#EXTINF:-1,SONY COMEDIA
-
-https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1,CNN
 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8?__b__=650
-
-#EXTINF:-1,VENEVISION
-
-http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,VENEVISION
-
-https://www.dailymotion.com/cdn/live/video/x8ixzmf.m3u8?sec=CNRCodkuwxllYYTLVGdNjbZHTUWm9r86pwhU-xOu9QkFOXhASjGf_6EBMfZOCY5yBWY1dHYJ0-d3wXdLLbMQ3A&dmTs=408778&dmV1st=9f3e74a2-7e55-46fc-9016-1aa4513c37b7
-
-#EXTINF:-1,CANAL i
-
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
 #EXTINF:-1,SHOW VEN
 
@@ -27,3 +9,223 @@ https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 #EXTINF:-1,TELECOLOR
 
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+
+#EXTINF:-1,VIVE
+
+https://airtek.tv/livestream/VIVE_TV.m3u8
+
+#EXTINF:-1,FANB
+
+https://airtek.tv/livestream/TV_FANB.m3u8
+
+#EXTINF:-1,VTV
+
+https://airtek.tv/livestream/VTV.m3u8
+
+#EXTINF:-1,GLOBOVISION
+
+https://airtek.tv/livestream/Globovision.m3u8
+
+#EXTINF:-1,VENEVISION
+
+https://airtek.tv/livestream/Venevision.m3u8
+
+#EXTINF:-1,TELESUR
+
+https://airtek.tv/livestream/TELESUR.m3u8
+
+#EXTINF:-1,TVES
+
+https://airtek.tv/livestream/TVES.m3u8
+
+#EXTINF:-1,TLT
+
+https://airtek.tv/livestream/TLT.m3u8
+
+#EXTINF:-1,CANAL 11
+
+https://airtek.tv/livestream/CANAL_11.m3u8
+
+#EXTINF:-1,TELEVEN
+
+https://airtek.tv/livestream/TELEVEN_RESPALDO.m3u8
+
+#EXTINF:-1,CANAL I
+
+https://airtek.tv/livestream/CANAL_I.m3u8
+
+#EXTINF:-1,TELEMUNDO
+
+https://airtek.tv/livestream/TELEMUNDO.m3u8
+
+#EXTINF:-1,A&E
+
+https://airtek.tv/livestream/A_E_HD.m3u8
+
+#EXTINF:-1,E
+
+https://airtek.tv/livestream/E_ENTERTAINMENT.m3u8
+
+#EXTINF:-1,SONY
+
+https://airtek.tv/livestream/SONY_HD.m3u8
+
+#EXTINF:-1,SONY MOVIES
+
+https://airtek.tv/livestreagñm/SONYMOVIES.m3u84
+
+#EXTINF:-1,WARNWER
+
+https://airtek.tv/livestream/WARNER_CHANNEL_HD.m3u8
+
+#EXTINF:-1,STAR
+
+https://airtek.tv/livestream/STAR.m3u8
+
+#EXTINF:-1,SPACE
+
+https://airtek.tv/livestream/SPACE.m3u8
+
+#EXTINF:-1,TNT SERIES
+
+https://airtek.tv/livestream/TNT_SERIES.m3u8
+
+#EXTINF:-1,TNT
+
+https://airtek.tv/livestream/TNT.m3u8
+
+#EXTINF:-1,AXN
+
+https://airtek.tv/livestream/AXN.m3u8
+
+#EXTINF:-1,GOLDEN
+
+https://airtek.tv/livestream/GOLDEN.m3u8
+
+#EXTINF:-1,EDGE
+
+https://airtek.tv/livestream/GOLDEN_EDGE.m3u8
+
+#EXTINF:-1,DPELICULAS
+
+https://airtek.tv/livestream/DPELICULAS.m3u8
+
+#EXTINF:-1,CINECANAL
+
+https://airtek.tv/livestream/CINECANAL.m3u8
+
+#EXTINF:-1,STUDIO
+
+https://airtek.tv/livestream/STUDIO_UNIVERSAL.m3u8
+
+#EXTINF:-1,UNIVERSAL
+
+https://airtek.tv/livestream/UNIVERSAL.m3u8
+
+#EXTINF:-1,DC
+
+https://airtek.tv/livestream/Distrito_Comedia.m3u8
+
+#EXTINF:-1,PARAMOUT
+
+https://airtek.tv/livestream/Paramount.m3u8
+
+#EXTINF:-1,FX
+
+https://airtek.tv/livestream/FX.m3u8
+
+#EXTINF:-1,MERIDIANO
+
+https://airtek.tv/livestream/Meridiano.m3u8
+
+#EXTINF:-1,IVC
+
+https://airtek.tv/livestream/IVC.m3u8
+
+#EXTINF:-1,ESPN EXTRA
+
+https://airtek.tv/livestream/ESPN_EXTRA.m3u8
+
+#EXTINF:-1,ESPN 1
+
+https://airtek.tv/livestream/ESPN_1.m3u8
+
+#EXTINF:-1,ESPN 2
+
+https://airtek.tv/livestream/ESPN_2.m3u8
+
+#EXTINF:-1,ESPN 3
+
+https://airtek.tv/livestream/ESPN_3.m3u8
+
+#EXTINF:-1,ESPN 4
+
+https://airtek.tv/livestream/ESPN_4.m3u8
+
+#EXTINF:-1,FOX SPORT 2
+
+https://airtek.tv/livestream/FOX_SPORTS_2.m3u8
+
+#EXTINF:-1,FOX SPORT 3
+
+https://airtek.tv/livestream/FOX_SPORTS_3.m3u8
+
+#EXTINF:-1,DISNEY CH
+
+https://airtek.tv/livestream/DISNEY_CHANNEL.m3u8
+
+#EXTINF:-1,TOONCAST
+
+https://airtek.tv/livestream/TOONCAST.m3u8
+
+#EXTINF:-1,BABY TV
+
+https://airtek.tv/livestream/BABY_TV.m3u8
+
+#EXTINF:-1,DISNEY JR
+
+https://airtek.tv/livestream/DISNEY_JUNIOR.m3u8
+
+#EXTINF:-1,DREAMWORKS
+
+https://airtek.tv/livestream/dreamworks.m3u8
+
+#EXTINF:-1,HISTORY
+
+https://airtek.tv/livestream/HISTORY_CHANNEL_HD.m3u8
+
+#EXTINF:-1,HISTORY 2
+
+https://airtek.tv/livestream/H2.m3u8
+
+#EXTINF:-1,NATGEO
+
+https://airtek.tv/livestream/NATGEO.m3u8
+
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+
+https://airtek.tv/livestream/CANAL_DE_LAS_ESTRALLA.m3u8
+
+#EXTINF:-1,TELENOVELAS
+
+https://airtek.tv/livestream/TELENOVELA_HD.m3u8
+
+#EXTINF:-1,TELEHIT
+
+https://airtek.tv/livestream/TELEHIT_HD.m3u8
+
+#EXTINF:-1,TELEHIT MUSIC
+
+https://airtek.tv/livestream/TELEHIT_MUSIC.m3u8
+
+#EXTINF:-1,BANDAMAX
+
+https://airtek.tv/livestream/Bandamax.m3u8
+
+#EXTINF:-1,MTV 80
+
+https://airtek.tv/livestream/MTV_80s.m3u8
+
+#EXTINF:-1,LIFETIME
+
+https://airtek.tv/livestream/LIFETIME.m3u8
